@@ -1,8 +1,6 @@
 """
 Database models.
 """
-from enum import unique
-from re import A
 from django.contrib.auth.models import (
     AbstractBaseUser,
     BaseUserManager,
